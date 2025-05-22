@@ -1,0 +1,13 @@
+# === backend ignore ===
+backend/target/
+backend/.idea/
+backend/.mvn/
+
+# === frontend ignore ===
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# === system ignore ===
+.DS_Store
+*.log
